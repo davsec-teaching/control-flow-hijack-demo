@@ -11,7 +11,7 @@ void allow_login() {
 }
 
 void super_secret_function() {
-	puts("Running super secret function");
+	puts("DANGER!! DANGER!! DANGER!! Executing super secret function!\n");
 }
 
 void authenticate() {
